@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **C , HTML , CSS , JavaScript**
 
-- 📫 How to reach me **bhushanpatil.bdp@gmail.com**
-
 - ⚡ Fun fact **I think I Know You**
 
 <h3 align="left">Connect with me:</h3>
